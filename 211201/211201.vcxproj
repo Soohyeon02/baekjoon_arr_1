@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="arr_1.c" />
     <ClCompile Include="test_1.c" />
+    <ClCompile Include="test_2.c" />
+    <ClCompile Include="test_3_pointer.c" />
+    <ClCompile Include="test_4_2차원배열.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
